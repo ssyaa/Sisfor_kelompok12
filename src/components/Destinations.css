@@ -1,0 +1,14 @@
+/* src/components/Destinations.css */
+.destinations {
+    padding: 20px;
+}
+
+.destinations h2 {
+    text-align: left;
+}
+
+.destination-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
